@@ -11,7 +11,7 @@ The following video by "The Coding Train" is of course also a good explanation a
 Ein kleines Beispiel des Sortiealgorythmus Bubblesort, mit entsprechender Visualisierung, geschrieben in Rust.
 Die Visualisierung wurde mit Hilfe der raylib-Bibliothek von raysan5 umgesetzt.
 
-Weitere Informationen zu Bubblesort findest du unteranderem auf der entsprechenden Wikipedia-Seite (https://de.wikipedia.org/wiki/Bubblesort)
+Weitere Informationen zu Bubblesort findest du unter anderem auf der entsprechenden Wikipedia-Seite (https://de.wikipedia.org/wiki/Bubblesort)
 sowie im Video "Coding Challenge #114: Bubble Sort Visualization" von "The Coding Train" (https://www.youtube.com/watch?v=67k3I2GxTH8).
 
 ## CREDITS ##
